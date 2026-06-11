@@ -2,9 +2,9 @@
 nome = 'Lailson'
 sobrenome = 'Lira'
 idade = 30
-ano_de_nascimento = 1992
-maior_de_idade = 18
-altura_metros = 165
+ano_de_nascimento = 2026 - idade
+maior_de_idade = idade >= 18
+altura_metros = 1.65
 
 print('Nome', nome)
 print('Sobrenome', sobrenome)
