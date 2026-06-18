@@ -4,4 +4,5 @@ peso = 110
 imc = peso / altura ** 2
 
 print('meu nome' , nome , ' E minha Altura e' , altura)
-print('peso')
+print('pesa' , peso, 'quilo e seu imc é' ,)
+print(imc)
